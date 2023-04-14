@@ -1,0 +1,25 @@
+Developer Guidelines for AI Gobang Game
+(URL: https://github.com/JacobCheng0912/Goban-AI.git)
+
+Repository Structure:
+The repository is structured as follows:
+game.py: the main game logic code
+test_game.py: unit tests for the game logic
+requirements.txt: a list of required Python packages
+
+Prerequisites:
+The following packages are required to build and run the game:
+Python 3.6 or higher
+numpy
+pytest
+
+Adding a New Test Case:
+To add a new test case, create a new function in the relevant test file and use the pytest framework to run the test. Make sure to follow the existing test case structure and naming conventions.
+
+Building and Testing the Game:
+To build and test the game, follow these steps:
+Run the unit tests using pytest
+If the tests pass, the game is ready to be run
+
+Continuous Integration:
+The repository is set up with a continuous integration (CI) system that runs the unit tests on every code change. The build history can be found in the repository's CI/CD settings.
