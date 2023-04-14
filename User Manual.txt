@@ -1,0 +1,21 @@
+User Manual for AI Gobang Game:
+
+Overview:
+The AI Gobang Game is a game where two players take turns placing pieces on a board with the goal of getting five in a row. One player is controlled by a computer AI while the other is controlled by a human player.
+
+Installation:
+To install the game, follow these steps:
+Download the game from the repository
+(The download URL is: https://github.com/JacobCheng0912/Goban-AI.git)
+
+Running the Game:
+To run the game, navigate to the game directory and run the command "AI Gobang.py". Follow the on-screen instructions to start the game.
+
+Playing the Game:
+The human player goes first and places a piece on the board by entering the row and column numbers.
+The AI player then places a piece on the board.
+Players take turns until one player gets five pieces in a row or the board is full.
+The game ends and the winner is announced.
+Bug Reports:
+If you encounter any issues while playing the game, please file a bug report in the repository's issues section. Please include a detailed description of the issue, steps to reproduce the issue, and any error messages received.
+
